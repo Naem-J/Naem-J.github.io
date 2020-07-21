@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>service on Technical Writing Portfolio</title>
+    <link>Naem-J.github.io/tags/service/</link>
+    <description>Recent content in service on Technical Writing Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="Naem-J.github.io/tags/service/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Service Labels</title>
+      <link>Naem-J.github.io/blog/service_stickers/</link>
+      <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>Naem-J.github.io/blog/service_stickers/</guid>
+      <description>The regional service labels are placed on company products to promote branding and remind users of service contact information. A label for each region (in different languages) was created and maintained in XML files and loaded into Adobe Illustrator templates.
+My responsibilities were to design the labels, create templates for different requirements, and maintain XML files of region-specific information. Translations and contact information was provided by local representatives.
+Programs used:</description>
+    </item>
+    
+  </channel>
+</rss>

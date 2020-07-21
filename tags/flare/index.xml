@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>flare on Technical Writing Portfolio</title>
+    <link>Naem-J.github.io/tags/flare/</link>
+    <description>Recent content in flare on Technical Writing Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 27 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="Naem-J.github.io/tags/flare/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Help File</title>
+      <link>Naem-J.github.io/blog/help_file/</link>
+      <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>Naem-J.github.io/blog/help_file/</guid>
+      <description>The DXP Series help file is a web-based help file integrated into software. It includes context-sensitive links to relevant topics.
+My responsibilities were to create a single-source CSS file for multiple output types and collaborate with Research and Development to generate the help file within software sprint cycles. An actual copy of the help file is readily not available.
+Programs used:
+ Madcap Flare Adobe Dreamweaver Adobe Photoshop  The actual help file is not available for general public consumption, but the following screenshot shows the layout, styles, structure, and writing conventions used.</description>
+    </item>
+    
+  </channel>
+</rss>
