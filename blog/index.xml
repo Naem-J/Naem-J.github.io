@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Technical Writing Portfolio</title>
-    <link>Naem-J.github.io/blog/</link>
+    <link>https://naem-j.github.io/blog/</link>
     <description>Recent content in Posts on Technical Writing Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <copyright>Copyright © 2008–2019, Steve Francia; all rights reserved. Content by Jeff Naemura.</copyright>
     <lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="Naem-J.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://naem-j.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Service Labels</title>
-      <link>Naem-J.github.io/blog/service_stickers/</link>
+      <link>https://naem-j.github.io/blog/service_stickers/</link>
       <pubDate>Mon, 27 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>Naem-J.github.io/blog/service_stickers/</guid>
+      <guid>https://naem-j.github.io/blog/service_stickers/</guid>
       <description>The regional service labels are placed on company products to promote branding and remind users of service contact information. A label for each region (in different languages) was created and maintained in XML files and loaded into Adobe Illustrator templates.
 My responsibilities were to design the labels, create templates for different requirements, and maintain XML files of region-specific information. Translations and contact information was provided by local representatives.
 Programs used:</description>
@@ -25,10 +25,10 @@ Programs used:</description>
     
     <item>
       <title>PDF Form Test Protocol</title>
-      <link>Naem-J.github.io/blog/estp_test_protocol/</link>
+      <link>https://naem-j.github.io/blog/estp_test_protocol/</link>
       <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>Naem-J.github.io/blog/estp_test_protocol/</guid>
+      <guid>https://naem-j.github.io/blog/estp_test_protocol/</guid>
       <description>This test protocol was developed for Technical Services and Quality Assurance to verify and validate PDF forms with custom input validation built into it. The form structure was based on a corporate template, but I was responsible for the test elements and expected results.
 This document is for reference only. Some information has been redacted.
 Program used: Microsoft Word
@@ -37,10 +37,10 @@ PDF form input validation test protocol</description>
     
     <item>
       <title>PDF Form</title>
-      <link>Naem-J.github.io/blog/estp/</link>
+      <link>https://naem-j.github.io/blog/estp/</link>
       <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>Naem-J.github.io/blog/estp/</guid>
+      <guid>https://naem-j.github.io/blog/estp/</guid>
       <description>The layout, workflow, and contents of this PDF form was determined another department, but I was responsible for creating a native JavaScript library to drastically reduce the validation process for Quality Assurance. These forms were provided to field service engineers to complete after every assignment.
 This document is for reference only. Some information has been redacted.
 Programs used:
@@ -49,10 +49,10 @@ Programs used:
     
     <item>
       <title>Help File</title>
-      <link>Naem-J.github.io/blog/help_file/</link>
+      <link>https://naem-j.github.io/blog/help_file/</link>
       <pubDate>Thu, 27 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>Naem-J.github.io/blog/help_file/</guid>
+      <guid>https://naem-j.github.io/blog/help_file/</guid>
       <description>The DXP Series help file is a web-based help file integrated into software. It includes context-sensitive links to relevant topics.
 My responsibilities were to create a single-source CSS file for multiple output types and collaborate with Research and Development to generate the help file within software sprint cycles. An actual copy of the help file is readily not available.
 Programs used:
@@ -61,30 +61,30 @@ Programs used:
     
     <item>
       <title>User Guide</title>
-      <link>Naem-J.github.io/blog/in1600_series/</link>
+      <link>https://naem-j.github.io/blog/in1600_series/</link>
       <pubDate>Wed, 28 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>Naem-J.github.io/blog/in1600_series/</guid>
+      <guid>https://naem-j.github.io/blog/in1600_series/</guid>
       <description>The IN1606 and IN1608 Series user guide is a document provided online by the company to provide extensive configuration and operation information to users. It is normally provided in PDF format.
 My responsibilities were to work with collaborate with Research and Development (Product Development) and technical illustrators to generate text and images for a technical US audience. I wrote the text, organized the topics, and captured user interface examples through parsing engineering documents and using the device.</description>
     </item>
     
     <item>
       <title>Setup Guide</title>
-      <link>Naem-J.github.io/blog/xtp_t_fb_202_sug/</link>
+      <link>https://naem-j.github.io/blog/xtp_t_fb_202_sug/</link>
       <pubDate>Wed, 30 Oct 2013 00:00:00 +0000</pubDate>
       
-      <guid>Naem-J.github.io/blog/xtp_t_fb_202_sug/</guid>
+      <guid>https://naem-j.github.io/blog/xtp_t_fb_202_sug/</guid>
       <description>The XTP T FB 202 setup guide is a printed document provided to the customer with the device. The setup guide instructs installers only on how to fit the device into several common floor boxes. It is normally printed on a single sheet of paper, folded in half.
 My responsibilities were to work with collaborate with Research and Development (Product Development) and technical illustrators to generate text and images for a technical US audience.</description>
     </item>
     
     <item>
       <title>Installation Guide</title>
-      <link>Naem-J.github.io/blog/rff_052/</link>
+      <link>https://naem-j.github.io/blog/rff_052/</link>
       <pubDate>Mon, 11 Jul 2011 00:00:00 +0000</pubDate>
       
-      <guid>Naem-J.github.io/blog/rff_052/</guid>
+      <guid>https://naem-j.github.io/blog/rff_052/</guid>
       <description>The RFF 052 and RFF 054 setup guide is a printed document provided to the customer with the product. The setup guide instructs installers only on how to fit the device onto rack-mounted devices. It is normally printed on a cardstock card.
 My responsibilities were to work with collaborate with Research and Development (Product Development) and technical illustrators to generate text and images for a technical US audience. I wrote the text and instructed the illustrators on what images needed to demonstrate through parsing engineering documents and using the device.</description>
     </item>

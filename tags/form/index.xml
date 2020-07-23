@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>form on Technical Writing Portfolio</title>
-    <link>Naem-J.github.io/tags/form/</link>
+    <link>https://naem-j.github.io/tags/form/</link>
     <description>Recent content in form on Technical Writing Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright © 2008–2019, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <copyright>Copyright © 2008–2019, Steve Francia; all rights reserved. Content by Jeff Naemura.</copyright>
     <lastBuildDate>Fri, 27 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="Naem-J.github.io/tags/form/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://naem-j.github.io/tags/form/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>PDF Form</title>
-      <link>Naem-J.github.io/blog/estp/</link>
+      <link>https://naem-j.github.io/blog/estp/</link>
       <pubDate>Fri, 27 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>Naem-J.github.io/blog/estp/</guid>
+      <guid>https://naem-j.github.io/blog/estp/</guid>
       <description>The layout, workflow, and contents of this PDF form was determined another department, but I was responsible for creating a native JavaScript library to drastically reduce the validation process for Quality Assurance. These forms were provided to field service engineers to complete after every assignment.
 This document is for reference only. Some information has been redacted.
 Programs used:
