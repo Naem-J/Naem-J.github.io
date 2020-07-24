@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>medical on Technical Writing Portfolio</title>
+    <link>https://naem-j.github.io/tags/medical/</link>
+    <description>Recent content in medical on Technical Writing Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2019, Steve Francia; all rights reserved. Content by Jeff Naemura.</copyright>
+    <lastBuildDate>Mon, 20 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://naem-j.github.io/tags/medical/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Web-Based User Guide</title>
+      <link>https://naem-j.github.io/blog/web_doc/</link>
+      <pubDate>Mon, 20 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://naem-j.github.io/blog/web_doc/</guid>
+      <description>This web document is based off a printed user guide for a 3D visualization system for ophthalmic surgery. I converted it to a web-based format to demonstrate potential topic organization and modularization in a responsive output format. Parts of this document are fictitious, removed, or redacted for proprietary purposes.
+My responsibilities for the original document included interpreting explanations from a Research and Development department acquired by the company, illustrating isometric and 2D drawings of individual system components and combined assemblies from CAD drawings, designing the visual styles based off the corporate brand guidelines and technical communication techniques, and creating the entire document.</description>
+    </item>
+    
+  </channel>
+</rss>

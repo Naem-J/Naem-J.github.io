@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>transmitter on Technical Writing Portfolio</title>
+    <link>https://naem-j.github.io/tags/transmitter/</link>
+    <description>Recent content in transmitter on Technical Writing Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2019, Steve Francia; all rights reserved. Content by Jeff Naemura.</copyright>
+    <lastBuildDate>Wed, 30 Oct 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://naem-j.github.io/tags/transmitter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Setup Guide</title>
+      <link>https://naem-j.github.io/blog/xtp_t_fb_202_sug/</link>
+      <pubDate>Wed, 30 Oct 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://naem-j.github.io/blog/xtp_t_fb_202_sug/</guid>
+      <description>The XTP T FB 202 setup guide is a printed document provided to the customer with the device. The setup guide instructs installers only on how to fit the device into several common floor boxes. It is normally printed on a single sheet of paper, folded in half.
+My responsibilities were to work with collaborate with Research and Development (Product Development) and technical illustrators to generate text and images for a technical US audience.</description>
+    </item>
+    
+  </channel>
+</rss>

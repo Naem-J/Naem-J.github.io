@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Technical Writing Portfolio</title>
+    <link>https://naem-j.github.io/posts/</link>
+    <description>Recent content in Posts on Technical Writing Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2008–2019, Steve Francia; all rights reserved. Content by Jeff Naemura.</copyright>
+    <lastBuildDate>Sun, 19 Jul 2020 22:32:48 -0700</lastBuildDate>
+    
+	<atom:link href="https://naem-j.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://naem-j.github.io/posts/welcome/</link>
+      <pubDate>Sun, 19 Jul 2020 22:32:48 -0700</pubDate>
+      
+      <guid>https://naem-j.github.io/posts/welcome/</guid>
+      <description>Welcome to my technical writing portfolio. The examples included on this site are either full versions freely available online or partial versions when not freely available. Partial versions may include fake information, omitted topics, redacted content, or just screenshots of the process used to create the document.</description>
+    </item>
+    
+  </channel>
+</rss>
