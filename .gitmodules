@@ -2,7 +2,3 @@
 	path = public
 	url = https://github.com/Naem-J/Naem-J.github.io.git
 	branch = master
-[submodule "Naem-J.github.io"]
-	path = Naem-J.github.io
-	url = https://github.com/Naem-J/Naem-J.github.io.git
-	branch = master
